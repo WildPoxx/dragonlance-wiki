@@ -6,7 +6,7 @@
 ---
 
 ## 📘 Procedimentos de IA
-- [Guidelines para Macros no Foundry] (/procedures/guidelines-macros.md)
+- [Guidelines para Macros no Foundry] (./procedures/guidelines-macros.md)
 - [Padrões e Metodologias de Desenvolvimento de Quests] (lair/procedures/guidelines-quests.md)
 - [Padrão de Cálculo de XP de Objetivos das Quests] (lair/procedures/xp-cr-objetivos.md)
 - [Regras Gerais de Cálculo de XP da Campanha] (lair/procedures/regras-calc-xp.md)
