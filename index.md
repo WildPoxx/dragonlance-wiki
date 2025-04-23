@@ -4,6 +4,12 @@ Bem-vindo ao repositório oficial da campanha **Dragonlance – Shadow of the Dr
 
 ---
 
+## 🎲 Link para o jogo no Foundry
+
+[🔗 Acessar a mesa virtual no Foundry](https://nkitdragonlance.com/join)
+
+---
+
 ## 🎭 Heróis e Aventuras
 
 Tudo o que os jogadores precisam para vivenciar a campanha, incluindo resumos, personagens, locais, aliados, itens, magias e cronologia.
@@ -43,6 +49,3 @@ Esta área contém materiais sensíveis da campanha. Jogadores, não prossigam a
 
 ---
 
-## 🎲 Link para o jogo no Foundry
-
-[🔗 Acessar a mesa virtual no Foundry](https://nkitdragonlance.com/join)
