@@ -45,7 +45,7 @@ Informações sobre o lore do cenário, dividido em categorias temáticas.
 
 Esta área contém materiais sensíveis da campanha. Jogadores, não prossigam além deste ponto!
 
-➡️ [Acessar o Dragon's Lair](.lair/dragons-lair-main.md)
+➡️ [Acessar o Dragon's Lair](lair/dragons-lair-main.md)
 
 ---
 
