@@ -77,4 +77,4 @@ Bem-vindo à Wiki da campanha Dragonlance no Foundry VTT. Este espaço reúne to
 ## 🐉 Dragon’s Lair
 *Área restrita ao Mestre. Proibido para jogadores!*
 
-📂 [Acesse o covil do Dragão](.lair/dragons-lair-main.md)
+📂 [Acesse o covil do Dragão](./lair/dragons-lair-main.md)
